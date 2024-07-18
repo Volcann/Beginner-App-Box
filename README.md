@@ -3,4 +3,5 @@ A repository dedicated to storing a collection of beginner-level applications cr
 
 ## Project 1:
 ### MyApplication
+
 - An app that displays a toast message when a button is clicked 🍞🔘
