@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Placement Analyzer</string>
+    <string name="image_view_description">Description of the image</string>
+    <string name="hint_CGPA">CGPA (0 - 10)</string>
+    <string name="hint_IQ">IQ (0 - 100)</string>
+    <string name="hint_Profile_Score">Profile Score (0 - 100)</string>
+    <string name="image_button_description">Submit or perform action</string>
+    <string name="ques_button_description">Ques</string>
+    <string name="back_button_description">Back</string>
+    <string name="congrats_image_description">Congratulations image</string>
+    <string name="failed_image_description">Failed image</string>
+</resources>
